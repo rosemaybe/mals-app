@@ -6,7 +6,7 @@
 	const avatar = generateAvatar(NAME, 'avataaars');
 </script>
 
-<img class="mask mask-circle w-48" src={avatar} alt="avatar" />
+<img class="mask mask-heart w-48" src={"https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/313198225_2970504079922710_9173568018252098101_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE0-N90ScnyHT0uAxPN4IRjewEHw88DU0l7AQfDzwNTSZJj1nVMcA9q-2aRna_D6xCNOni3h4VS5AWFEl9Cajtg&_nc_ohc=Tiw1LcC59vUAX-NemGU&tn=8uYMW8ACZKWESJmc&_nc_ht=scontent.fmnl30-2.fna&oh=00_AfCELdKTADKfjixm4KaKMwbxpziewQJHob1s4mdrLtNIwg&oe=637AEF41"} alt="avatar" />
 <select class=" uppercase select w-full max-w-xs">
 	<option disabled selected>Pick your favorite anime</option>
 	<option>One Piece</option>
